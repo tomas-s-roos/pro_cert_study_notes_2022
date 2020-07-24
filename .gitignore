@@ -1,0 +1,7 @@
+# Ignore Everything
+*
+
+# Not not these
+!.gitignore
+!*.md
+!*.html
