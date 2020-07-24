@@ -1,5 +1,6 @@
 # Ignore Everything
 *
+.DS_Store
 
 # Not not these
 !.gitignore
