@@ -88,8 +88,8 @@ html:
   - [Synthetics](#synthetics)
   - [Practical exam](#practical-exam)
   
-  ## Update Notes
-  These are the notes found in [here](https://github.com/tukanuk/pro_cert_study_notes), originally written by tukanuk, but updated slightly as of october 2022
+## Update Notes
+These are the notes found in [here](https://github.com/tukanuk/pro_cert_study_notes), originally written by tukanuk, but updated slightly as of october 2022
 
 ## ActiveGate
 
@@ -207,7 +207,7 @@ Windows: `C:\ProgramData\dynatrace\oneagent\log`
 
 ### OneAgent Configuration
 
-Files found in `/var/lib/dynatrace/oneagent/agent/config´
+Files found in `/var/lib/dynatrace/oneagent/agent/config`
 
 | Configuration file path       | Use                                   | User Modify |
 | ----------------------------- | ------------------------------------- | :---------: |
