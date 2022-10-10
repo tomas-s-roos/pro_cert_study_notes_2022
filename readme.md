@@ -207,7 +207,7 @@ Windows: `C:\ProgramData\dynatrace\oneagent\log`
 
 ### OneAgent Configuration
 
-Files found in /var/lib/dynatrace/oneagent/agent/config
+Files found in `/var/lib/dynatrace/oneagent/agent/config´
 
 | Configuration file path       | Use                                   | User Modify |
 | ----------------------------- | ------------------------------------- | :---------: |
